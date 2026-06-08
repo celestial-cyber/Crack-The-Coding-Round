@@ -1,0 +1,347 @@
+
+# 🟢 Easy / Foundation (Must Finish First)
+
+## Arrays Basics
+
+* Find duplicate number
+* Maximum product of two numbers
+* Rearrange array alternatively
+* Merge sorted arrays
+* Find equilibrium index
+* Maximum difference problem
+
+## String Basics
+
+* Implement strstr()
+* Roman to Integer
+* Integer to Roman
+* Valid Palindrome
+* Compare Version Numbers
+* Count and Say
+
+## Hashing Basics
+
+* Two Sum using HashMap
+* Count Frequency of Elements
+* Happy Number
+* Isomorphic Strings
+* Majority Element II
+
+## Bit Manipulation Basics
+
+* Check Odd/Even using Bit
+* Power of Two
+* Count Set Bits
+* Single Number
+* Missing Number using XOR
+* XOR of Range
+
+---
+
+# 🟡 Intermediate Pattern Problems
+
+## Prefix Sum / Hashing
+
+* Subarray Sum Equals K
+* Subarray with Zero Sum
+* Longest Subarray with Sum K
+* Longest Consecutive Sequence
+
+## Array Manipulation
+
+* Product of Array Except Self
+* Next Permutation
+* Set Matrix Zeroes
+* Sort Colors (Dutch National Flag)
+* Maximum Product Subarray
+
+## Matrix
+
+* Set Matrix Zeroes
+
+## Two Pointers
+
+* Remove Duplicates from Sorted Array
+* Move Zeroes
+* Valid Palindrome II
+* Sort Array by Parity
+* Remove Element
+* Squares of Sorted Array
+
+## Binary Search
+
+* First and Last Occurrence
+* Peak Element
+* Square Root using Binary Search
+* Find Minimum in Rotated Array
+
+## Stack Basics
+
+* Valid Parentheses
+* Min Stack
+* Next Greater Element
+* Previous Smaller Element
+* Daily Temperatures
+* Stock Span Problem
+
+## Linked List Basics
+
+* Reverse Linked List
+* Detect Cycle
+* Merge Two Sorted Linked Lists
+* Remove Nth Node from End
+* Palindrome Linked List
+* Intersection of Linked List
+
+---
+
+# 🟠 Sliding Window Pattern
+
+* Maximum Sum Subarray of Size K
+* Longest Substring Without Repeating Characters
+* Longest Repeating Character Replacement
+* Minimum Size Subarray Sum
+* Permutation in String
+* Find All Anagrams in String
+* Sliding Window Maximum
+* Fruit Into Baskets
+* Binary Subarrays With Sum
+* Minimum Window Substring
+
+---
+
+# 🔵 Interval Pattern
+
+* Merge Intervals
+* Insert Interval
+* Non-overlapping Intervals
+
+---
+
+# 🟣 Advanced Two Pointers
+
+* Container With Most Water
+* Trapping Rain Water
+* Three Sum
+* Four Sum
+* Partition Labels
+
+---
+
+# 🔴 Advanced Strings
+
+* Longest Palindromic Substring
+* Minimum Insertions for Palindrome
+* Zigzag Conversion
+* Decode String
+* Multiply Strings
+* Word Break Problem
+* Rabin-Karp Pattern Matching
+* Group Anagrams
+
+---
+
+# 🟤 Binary Search on Answer Pattern
+
+Very frequently asked in Amazon, Microsoft, Adobe, Atlassian.
+
+* Koko Eating Bananas
+* Capacity to Ship Packages
+* Aggressive Cows
+* Book Allocation Problem
+
+---
+
+# ⚫ Heap / Priority Queue Pattern
+
+* Kth Largest Element
+* Top K Frequent Elements
+* Merge K Sorted Arrays
+* Median From Data Stream
+* Task Scheduler
+* Connect Ropes Minimum Cost
+* Sort Nearly Sorted Array
+* K Closest Points to Origin
+
+---
+
+# 🟩 Recursion & Backtracking Pattern
+
+* Subsets
+* Subsets II
+* Permutations
+* Combination Sum
+* Combination Sum II
+* Generate Parentheses
+* Letter Combinations of Phone Number
+* Word Search
+* N-Queens
+* Sudoku Solver
+
+---
+
+# 🌲 Trees (Most Asked)
+
+## Easy-Medium
+
+* Tree Traversals
+* Level Order Traversal
+* Height of Binary Tree
+* Maximum Depth of Tree
+* Same Tree
+* Symmetric Tree
+* Path Sum
+
+## Medium-Hard
+
+* Diameter of Binary Tree
+* Balanced Binary Tree
+* Lowest Common Ancestor
+* Zigzag Traversal
+* Boundary Traversal
+* Top View
+* Vertical Order Traversal
+* Serialize and Deserialize Tree
+
+---
+
+# 🌳 BST Pattern
+
+* Search in BST
+* Insert in BST
+* Delete Node in BST
+* Validate BST
+* Kth Smallest Element
+* Lowest Common Ancestor in BST
+* Convert Sorted Array to BST
+* Recover BST
+* BST Iterator
+
+---
+
+# 🔶 Graph Pattern
+
+## BFS / DFS
+
+* BFS Traversal
+* DFS Traversal
+* Number of Islands
+* Flood Fill
+* Rotten Oranges
+
+## Cycle Detection
+
+* Detect Cycle in Graph
+* Course Schedule
+* Bipartite Graph Check
+
+## Topological Sort
+
+* Topological Sort
+* Course Schedule
+
+## Shortest Path
+
+* Dijkstra Algorithm
+* Bellman-Ford Algorithm
+* Floyd Warshall Algorithm
+* Shortest Path in DAG
+* Word Ladder
+
+## MST
+
+* Kruskal Algorithm
+* Prim's Algorithm
+
+---
+
+# 🟫 Dynamic Programming (Highest Interview Value)
+
+## 1D DP
+
+* Climbing Stairs
+* House Robber
+* House Robber II
+* Coin Change
+* Frog Jump
+* Decode Ways
+
+## Subsequence DP
+
+* Longest Increasing Subsequence
+* Longest Common Subsequence
+
+## Knapsack Pattern
+
+* 0/1 Knapsack
+* Partition Equal Subset Sum
+
+## Grid DP
+
+* Unique Paths
+* Minimum Path Sum
+
+## Advanced DP
+
+* Edit Distance
+* Matrix Chain Multiplication
+* Palindrome Partitioning
+
+---
+
+# ⭐ Top 50 Must-Do Before Placements
+
+If you have limited time, prioritize:
+
+1. Two Sum
+2. Maximum Subarray Sum
+3. Product of Array Except Self
+4. Next Permutation
+5. Merge Intervals
+6. Longest Consecutive Sequence
+7. Valid Palindrome
+8. Group Anagrams
+9. Longest Substring Without Repeating Characters
+10. Minimum Window Substring
+11. Three Sum
+12. Container With Most Water
+13. Binary Search
+14. Search in Rotated Array
+15. Koko Eating Bananas
+16. Valid Parentheses
+17. Next Greater Element
+18. Sliding Window Maximum
+19. Reverse Linked List
+20. Detect Cycle
+21. Merge K Sorted Lists
+22. Tree Traversals
+23. Diameter of Binary Tree
+24. Lowest Common Ancestor
+25. Validate BST
+26. Kth Largest Element
+27. Top K Frequent Elements
+28. Subsets
+29. Permutations
+30. Combination Sum
+31. BFS
+32. DFS
+33. Number of Islands
+34. Course Schedule
+35. Dijkstra
+36. Climbing Stairs
+37. House Robber
+38. Coin Change
+39. LIS
+40. LCS
+41. Edit Distance
+42. Knapsack
+43. Activity Selection
+44. Job Sequencing
+45. Trapping Rain Water
+46. Word Break
+47. Median of Two Sorted Arrays
+48. Serialize & Deserialize Tree
+49. Word Ladder
+50. Palindrome Partitioning
+
+rviews.

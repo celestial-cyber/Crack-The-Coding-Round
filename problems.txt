@@ -1,0 +1,276 @@
+
+
+# 1. Basic Logic & Number Problems
+
+1. Even or Odd
+2. Prime Number Check
+3. Armstrong Number
+4. Palindrome Number
+5. Reverse Number
+6. Count Digits
+7. GCD / HCF
+8. LCM
+9. Fibonacci Series
+10. Factorial
+11. Sum of Digits
+12. Perfect Number
+13. Strong Number
+14. Harshad Number
+15. Automorphic Number
+16. Happy Number
+17. Prime Numbers in Range
+18. Sieve of Eratosthenes
+19. Decimal to Binary
+20. Check Power of 2
+
+---
+
+# 2. Arrays
+
+21. Largest Element
+22. Second Largest Element
+23. Reverse Array
+24. Check if Array is Sorted
+25. Remove Duplicates
+26. Move Zeroes
+27. Rotate Array
+28. Missing Number
+29. Majority Element
+30. Two Sum
+31. Best Time to Buy and Sell Stock
+32. Maximum Subarray Sum (Kadane)
+33. Product of Array Except Self
+34. Maximum Product Subarray
+35. Trapping Rain Water
+36. Container With Most Water
+37. Merge Intervals
+38. Insert Interval
+39. Sort Colors (Dutch National Flag)
+40. Find Duplicate Number
+41. Longest Consecutive Sequence
+42. Kth Largest Element
+
+---
+
+# 3. Strings
+
+43. Reverse String
+44. Palindrome String
+45. Anagram Check
+46. Character Frequency
+47. Remove Duplicates from String
+48. First Non-Repeating Character
+49. Longest Common Prefix
+50. Reverse Words in Sentence
+51. String Rotation Check
+52. Valid Parentheses
+53. Longest Substring Without Repeating Characters
+54. Longest Palindromic Substring
+55. Group Anagrams
+56. Word Break
+57. Implement strstr()
+58. Rabin-Karp
+59. String to Integer (atoi)
+60. Decode Ways
+
+---
+
+# 4. Hashing / HashMap
+
+61. Frequency Count
+62. Count Distinct Elements
+63. Two Sum Using HashMap
+64. Longest Consecutive Sequence
+65. Subarray Sum Equals K
+66. Longest Zero Sum Subarray
+67. Top K Frequent Elements
+68. Isomorphic Strings
+
+---
+
+# 5. Two Pointers
+
+69. Remove Duplicates from Sorted Array
+70. Pair Sum in Sorted Array
+71. Three Sum
+72. Four Sum
+73. Container With Most Water
+
+---
+
+# 6. Sliding Window
+
+74. Maximum Sum Subarray of Size K
+75. Longest Substring Without Repeating Characters
+76. Longest Repeating Character Replacement
+77. Minimum Size Subarray Sum
+78. Sliding Window Maximum
+79. Minimum Window Substring
+80. Fruit Into Baskets
+
+---
+
+# 7. Binary Search
+
+81. Binary Search
+82. First and Last Occurrence
+83. Search in Rotated Sorted Array
+84. Peak Element
+85. Square Root Using Binary Search
+86. Find Minimum in Rotated Array
+87. Koko Eating Bananas
+88. Capacity To Ship Packages
+89. Aggressive Cows
+90. Median of Two Sorted Arrays
+
+---
+
+# 8. Sorting
+
+91. Bubble Sort
+92. Selection Sort
+93. Insertion Sort
+94. Merge Sort
+95. Quick Sort
+
+---
+
+# 9. Matrix
+
+96. Matrix Transpose
+97. Spiral Matrix Traversal
+98. Rotate Matrix by 90 Degrees
+99. Set Matrix Zeroes
+
+---
+
+# 10. Recursion & Backtracking
+
+100. Factorial Using Recursion
+101. Fibonacci Using Recursion
+102. Tower of Hanoi
+103. Generate Subsets
+104. Permutations
+105. Combination Sum
+106. Generate Parentheses
+107. N-Queens
+
+---
+
+# 11. Linked List
+
+108. Reverse Linked List
+109. Find Middle Node
+110. Detect Cycle
+111. Remove Nth Node from End
+112. Merge Two Sorted Linked Lists
+113. Add Two Numbers
+114. Merge K Sorted Lists
+115. Copy List with Random Pointer
+
+---
+
+# 12. Stack & Queue
+
+116. Valid Parentheses
+117. Min Stack
+118. Next Greater Element
+119. Stock Span Problem
+120. Largest Rectangle in Histogram
+121. Queue Using Stacks
+122. LRU Cache
+
+---
+
+# 13. Trees
+
+123. Inorder Traversal
+124. Preorder Traversal
+125. Postorder Traversal
+126. Level Order Traversal
+127. Height of Binary Tree
+128. Diameter of Binary Tree
+129. Balanced Binary Tree
+130. Lowest Common Ancestor
+131. Zigzag Traversal
+132. Vertical Order Traversal
+133. Serialize and Deserialize Tree
+
+---
+
+# 14. BST
+
+134. Search in BST
+135. Insert in BST
+136. Delete in BST
+137. Validate BST
+138. Kth Smallest Element
+139. Lowest Common Ancestor in BST
+
+---
+
+# 15. Heap
+
+140. Kth Largest Element
+141. Top K Frequent Elements
+142. Merge K Sorted Arrays
+143. Median from Data Stream
+144. Connect Ropes Minimum Cost
+
+---
+
+# 16. Greedy
+
+145. Activity Selection
+146. Fractional Knapsack
+147. Job Sequencing
+148. Jump Game
+149. Gas Station Problem
+150. Minimum Platforms
+
+---
+
+# 17. Dynamic Programming (Most Important)
+
+151. Climbing Stairs
+152. House Robber
+153. Coin Change
+154. 0/1 Knapsack
+155. Longest Increasing Subsequence
+156. Longest Common Subsequence
+157. Edit Distance
+158. Partition Equal Subset Sum
+159. Unique Paths
+160. Minimum Path Sum
+161. Matrix Chain Multiplication
+162. Palindrome Partitioning
+
+---
+
+# 18. Graphs
+
+163. BFS Traversal
+164. DFS Traversal
+165. Number of Islands
+166. Flood Fill
+167. Detect Cycle in Graph
+168. Topological Sort
+169. Course Schedule
+170. Bipartite Graph Check
+171. Dijkstra Algorithm
+172. Minimum Spanning Tree (Kruskal)
+173. Minimum Spanning Tree (Prim)
+174. Word Ladder
+
+---
+
+# 19. Bit Manipulation
+
+175. Check Odd/Even Using Bitwise
+176. Count Set Bits
+177. Power of Two
+178. Single Number
+179. Missing Number Using XOR
+180. Subsets Using Bit Masking
+
+T
