@@ -1,0 +1,73 @@
+
+---
+
+1. Anagram
+   Definition: Two strings containing the same characters in different order.
+   Example: listen → silent
+
+2. Isogram
+   Definition: A word with no repeated letters.
+   Example: machine
+
+3. Pangram
+   Definition: A sentence containing every letter of the alphabet at least once.
+   Example: The quick brown fox jumps over the lazy dog
+
+4. Palindrome
+   Definition: A string that reads the same forward and backward.
+   Example: madam
+
+5. Substring
+   Definition: A continuous sequence of characters inside a string.
+   Example: abcde → bcd
+
+6. Subsequence
+   Definition: Characters appear in order but not necessarily continuously.
+   Example: abcde → ace
+
+7. Permutation
+   Definition: Any rearrangement of characters of a string.
+   Example: abc → bac
+
+8. Isomorphic Strings
+   Definition: Characters in one string can be replaced to form another with a one-to-one mapping.
+   Example: egg → add
+
+9. String Rotation
+   Definition: One string is a rotated version of another.
+   Example: abcde → cdeab
+
+10. Frequency Count
+    Definition: Counting occurrences of each character in a string.
+    Example: banana → b1 a3 n2
+
+11. Anagram Grouping
+    Definition: Grouping strings that are anagrams of each other.
+    Example: [eat, tea, ate]
+
+12. Longest Common Prefix
+    Definition: The longest prefix shared by all strings in a list.
+    Example: flower, flow → fl
+
+13. Pattern Matching
+    Definition: Finding whether a pattern exists inside a string.
+    Example: "abc" in "xabcx"
+
+14. Valid Parentheses
+    Definition: Checking if brackets are properly balanced using stack logic.
+    Example: {[()]} → valid
+
+15. Longest Palindromic Substring
+    Definition: The longest substring that is a palindrome.
+    Example: babad → bab
+
+16. Semordnilap
+    Definition: A pair of words that form another valid word when reversed.
+    Example: stressed → desserts
+
+17. Unique Character String
+    Definition: A string where all characters are distinct.
+    Example: abcde
+
+---
+
